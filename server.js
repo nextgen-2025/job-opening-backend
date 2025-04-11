@@ -18,7 +18,7 @@ app.get('/jobs', (req, res) => {
 });
 
 // CREATE job
-app.post('/jobs', (req, res) => {
+app.post('https://job-opening-backend-production-7112.up.railway.app/jobs', (req, res) => {
   const newJob = req.body;  
 
   fs.readFile('jobs.json', 'utf8', (err, data) => {
@@ -35,7 +35,7 @@ app.post('/jobs', (req, res) => {
 });
 
 // DELETE job
-app.delete('/jobs/:id', (req, res) => {
+app.delete('https://job-opening-backend-production-7112.up.railway.app/jobs/:id', (req, res) => {
   const jobId = req.params.id;
 
   fs.readFile('jobs.json', 'utf8', (err, data) => {
@@ -56,7 +56,7 @@ app.delete('/jobs/:id', (req, res) => {
 });
 
 // UPDATE job
-app.put('/jobs/:id', (req, res) => {
+app.put('https://job-opening-backend-production-7112.up.railway.app/jobs/:id', (req, res) => {
   const jobId = req.params.id;
   const updatedJob = req.body;
 
