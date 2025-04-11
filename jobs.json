@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "HR Executive",
+    "location": "Mahape-MBP, Ghansoli",
+    "description": "We are hiring HR Executives to handle recruitment and HR admin activities. Responsibilities include 80% recruitment (sourcing, screening, and interviewing candidates through job portals) and 20% HR admin activities.",
+    "skills": [
+      "Good knowledge of job portals",
+      "Strong communication skills",
+      "Experience in bulk and lateral hiring",
+      "Basic understanding of payroll management",
+      "HR operations is required."
+    ],
+    "salary": "₹15,000 - ₹25,000 per month",
+    "openPositions": 4
+  },
+  {
+    "id": "2",
+    "title": "Digital Marketing Manager",
+    "location": "Mahape-MBP, Ghansoli",
+    "descriptionList": [
+      "Plan and execute digital strategies to drive traffic, engagement, and leads for real estate projects",
+      "Manage and optimize paid media campaigns (Google Ads, social media, etc.)",
+      "Lead SEO efforts for better organic rankings",
+      "Oversee social media, content, influencers, and promotions",
+      "Analyze campaign data and refine strategies",
+      "Align digital marketing with sales goals through cross-team collaboration",
+      "Mentor and guide the digital marketing team",
+      "Stay updated on real estate-focused digital trends and tools"
+    ],
+    "qualifications": [
+      "Bachelor’s or Master’s degree in Marketing, Digital Media, or a related field",
+      "4+ years of experience in digital marketing, specifically in the real estate industry"
+    ],
+    "description": "Looking for a Digital Marketing Manager (Real Estate & Office Infrastructure) to lead our online marketing initiatives.",
+    "skills": [
+      "Proficient in Google Analytics, Ads, SEO, SEM, and social media marketing",
+      "Experienced in digital campaigns for real estate",
+      "Strong leadership, project management, and communication skills",
+      "Skilled at multitasking in fast-paced environments"
+    ],
+    "salary": "Discussed during the interview",
+    "openPositions": "Not specified"
+  },
+  {
+    "id": "3",
+    "title": "App Developer (Android - Java)",
+    "location": "Mahape-MBP, Ghansoli",
+    "description": "We are seeking a skilled App Developer with hands-on experience in Android development using Java and strong backend integration knowledge. The ideal candidate should have a solid portfolio of mobile applications and a deep understanding of mobile frameworks and best practices.",
+    "descriptionList": [
+      "Design, develop, and maintain high-quality Android applications using Java",
+      "Integrate mobile apps with backend services and APIs",
+      "Stay updated with the latest trends and best practices in Android development"
+    ],
+    "skills": [
+      "Proficient in Java for Android app development",
+      "Experience with Android SDK, Android Studio, and Gradle",
+      "Experience with RESTful APIs, JSON/XML parsing, and backend integration",
+      "Knowledge of SQLite, Room Database, or other local storage solutions",
+      "Familiar with Firebase (Authentication, Realtime DB, Push Notifications)",
+      "Experience with version control systems (Git)"
+    ],
+    "salary": "Discussed during the interview",
+    "openPositions": "1"
+  }
+]
